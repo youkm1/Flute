@@ -1,6 +1,6 @@
 This toy project shows random words. Toggling.    <br/>
 Functional Description       
-<li><p>1. Create words randomly</p></li>
+<li>1. Create words randomly</li>
 <li><p>2. Like function to save the words what user likes</p></li>
 <li><p>3. Next function to move on another word</p></li>
 <li><p>4. Page separation</p></li>
